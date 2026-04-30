@@ -1,6 +1,6 @@
 # movie-revenue-analysis
 
-# 🎬 Movie Revenue Analysis
+# Movie Revenue Analysis
 
 ## Objective
 Analyze how **budget, genre, and release year** impact movie revenue.
