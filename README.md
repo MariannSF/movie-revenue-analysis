@@ -11,3 +11,5 @@ Kaggle Movies Dataset
 ## Key Questions
 - Do higher budgets lead to higher revenue?
 - Which genres perform best?
+
+Find Dashboard: https://public.tableau.com/app/profile/mariann.freund/viz/WhatDrivesMovieRevenueTableauDashboard/Dashboard1?publish=yes
